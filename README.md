@@ -8,6 +8,8 @@ Built with [Tauri](https://tauri.app) + [FrankenPHP](https://frankenphp.dev) +
 SQLite. No account, no internet connection, and no subscription required to
 use the app.
 
+Homepage: https://ArteraQ.com
+
 ## Download
 
 Latest release: **v0.4.2** (Apple Silicon / arm64)
