@@ -12,9 +12,9 @@ Homepage: https://ArteraQ.com
 
 ## Download
 
-Latest release: **v0.4.2** (Apple Silicon / arm64)
+Latest release: **v0.4.3** (Apple Silicon / arm64)
 
-Grab `ArteraQ_0.4.2_aarch64.dmg` from the
+Grab `ArteraQ_0.4.3_aarch64.dmg` from the
 [Releases page](https://github.com/midlifesaas/ArteraQ-desktop/releases/latest).
 
 > Apple Silicon (M1/M2/M3/M4) only for this release. Intel Mac support is not
